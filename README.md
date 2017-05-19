@@ -13,8 +13,9 @@ Arduino-based temperature/humidity sensor with LCD display
 2. DHT22 Temperature/Humidity sensor
 3. Arudino-compatible 16x2 LCD (similar to https://www.sparkfun.com/products/9067)
 4. Trimpot for adjusting LCD brightness (similar to https://www.sparkfun.com/products/9806)
-5. A lot of wires
-6. Breadboard
+5. 10K Ohm resistor
+6. A lot of wires
+7. Breadboard
 
 
 
