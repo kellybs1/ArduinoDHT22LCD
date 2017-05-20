@@ -7,7 +7,7 @@ Arduino-based temperature/humidity sensor with LCD display
 
 
 
-## Hardware required:
+## Hardware required
 
 1. Arduino Uno or compatible (pictured: SparkFun Redboard)
 2. DHT22 Temperature/Humidity sensor
@@ -20,7 +20,7 @@ Arduino-based temperature/humidity sensor with LCD display
 
 
 
-## Addtional library:
+## Addtional library
 
 Adafruit DHT Sensor Library
 
