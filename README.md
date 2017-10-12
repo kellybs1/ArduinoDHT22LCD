@@ -36,6 +36,9 @@ https://github.com/kellybs1/ArduinoDHT22LCD/blob/master/DHT22-LCD.fzz
 
 <img src="DHT22-LCD.png" width="400">
 
+## Code
+
+<a href ="https://github.com/kellybs1/ArduinoDHT22LCD/blob/master/DHT22-LCD/DHT22-LCD.ino">DHT22-LCD.ino</a>
 
 
 
